@@ -20,7 +20,7 @@
           <mxGeometry x="20" y="637" width="40" height="80" as="geometry" />
         </mxCell>
         <mxCell id="n3ImuVNXiSJUvUDemmLi-4" value="&lt;b&gt;Dungen Master&lt;/b&gt;" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" parent="1" vertex="1">
-          <mxGeometry x="100" y="645" width="40" height="80" as="geometry" />
+          <mxGeometry x="80" y="637" width="40" height="80" as="geometry" />
         </mxCell>
         <mxCell id="n3ImuVNXiSJUvUDemmLi-16" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="n3ImuVNXiSJUvUDemmLi-8" target="n3ImuVNXiSJUvUDemmLi-15" edge="1">
           <mxGeometry relative="1" as="geometry" />
